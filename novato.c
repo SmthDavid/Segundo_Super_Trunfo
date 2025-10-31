@@ -25,8 +25,8 @@ int main() {
   printf("E sua quantia de pontos túristicos: ");
   scanf("%d", &pontosTuristicos1);
 
-  float densidade1 = populacao1 / area1; // Calcula densidade
-  float capita1 = pib1 / populacao1; // Calcula PIB per capita
+  float densidade1 = populacao1 / area1;
+  float capita1 = pib1 / populacao1;
 
   printf("Agora para a próxima carta.\n");
 
